@@ -12,7 +12,7 @@ Usage of epss:
     	Sort data by most dangerous
 ```
 
-Output of command: `go run epss.go`
+Output of command: `go run epss.go -l 3`
 
 
 ```
