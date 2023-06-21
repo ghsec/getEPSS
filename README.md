@@ -1,4 +1,4 @@
-# getEPSS
+# Exploit Prediction Scoring System (EPSS) 
 
 ```
 Usage of epss:
